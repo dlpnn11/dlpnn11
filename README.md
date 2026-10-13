@@ -7,21 +7,21 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Core Technologies
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,html,css,nodejs,express,supabase,mysql,postgres,git,github,vscode,postman&perline=8" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,nodejs,express,supabase,mysql,postgres,postman&perline=6" alt="Tech Stack" />
   </a>
 </p>
 
 <details>
 <summary><b>📋 Kategori & Spesialisasi</b></summary>
 
-* **Frontend:** Next.js (App Router), React, TypeScript, Tailwind CSS, HTML5, CSS3
+* **Frontend:** Next.js (App Router), React, TypeScript, Tailwind CSS
 * **Backend & API:** Node.js, Express.js, REST API, Server Actions
 * **Database & Cloud:** Supabase (PostgreSQL, Realtime, Auth), MySQL
-* **Tools & Workflow:** Git, GitHub, VS Code, Postman
+* **API Testing:** Postman
 </details>
 
 ---
