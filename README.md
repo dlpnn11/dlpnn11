@@ -29,12 +29,12 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dlpnn11&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="dlpnn11 GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlpnn11&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dlpnn11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" alt="dlpnn11 GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlpnn11&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dlpnn11&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=dlpnn11&theme=tokyonight&hide_border=true&background=00000000&stroke=30363d" alt="GitHub Streak Stats" />
 </p>
 
 ---
