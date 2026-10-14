@@ -1,5 +1,5 @@
 # Hi there, I'm Dalvin 👋
-### Fullstack Web Developer | Information Systems Student
+### Fullstack Web Developer | Computer Science Student
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=6FA084&width=500&lines=Building+Modern+Web+Applications;Next.js+%2B+TypeScript+%2B+Tailwind;Node.js+%2B+Supabase+%2B+MySQL;Passionate+about+Clean+Architecture" alt="Typing SVG" />
